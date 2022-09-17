@@ -35,4 +35,10 @@ A Powerful Telegram Chat Bot written in pyrogram. Useful for Feedbacks , Anonymo
 /mode - Change mode between group and private. Bot will forward messages to that place only. By default to Private
 ```
 
+Mᴀɴᴀɢᴇᴅ Bʏ: [𐏓〬⃝ ⸙‌ٖٖٖٖٖٖٜٖٖٖٖٖٖ Official ➣LOG⛦ AFK xͮD ⸙‌ٖٖٖٖٖٖٜٖٖٖٖٖٖ ااـ꯭](https://t.me/Official_Pro_xD)
 
+Mᴀɴᴀɢᴇᴅ Bʏ: [☠ 𝗖𝐀𝗟𝐋 𝗠𝐄 𖣘 𝗗𝐀𝗗𝐃𝐘༺ 🇮🇳](https://t.me/kinds_xD)
+<a href="https://youtube.com/channel/UCg2TdQRiebYp9iFPDJ8idUQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙰+𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖+ChatBot+𝙾𝚙𝚎𝚗+𝚂𝚘𝚞𝚛𝚌𝚎;𝚠𝚛𝚒𝚝𝚝𝚎𝚗+𝙸𝚗+Telethon%E2%9D%A4%EF%B8%8F">
+</p>
