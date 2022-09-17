@@ -35,8 +35,8 @@ A Powerful Telegram Chat Bot written in pyrogram. Useful for Feedbacks , Anonymo
 /mode - Change mode between group and private. Bot will forward messages to that place only. By default to Private
 ```
 
-# Mᴀɴᴀɢᴇᴅ Bʏ: [𐏓〬⃝ ⸙‌ٖٖٖٖٖٖٜٖٖٖٖٖٖ Official ➣LOG⛦ AFK xͮD ⸙‌ٖٖٖٖٖٖٜٖٖٖٖٖٖ ااـ꯭](https://t.me/Official_Pro_xD)
+Mᴀɴᴀɢᴇᴅ Bʏ: [𐏓〬⃝ ⸙‌ٖٖٖٖٖٖٜٖٖٖٖٖٖ Official ➣LOG⛦ AFK xͮD ⸙‌ٖٖٖٖٖٖٜٖٖٖٖٖٖ ااـ꯭](https://t.me/Official_Pro_xD)
 
-# Mᴀɴᴀɢᴇᴅ Bʏ: [☠ 𝗖𝐀𝗟𝐋 𝗠𝐄 𖣘 𝗗𝐀𝗗𝐃𝐘༺ 🇮🇳](https://t.me/kinds_xD)
+Mᴀɴᴀɢᴇᴅ Bʏ: [☠ 𝗖𝐀𝗟𝐋 𝗠𝐄 𖣘 𝗗𝐀𝗗𝐃𝐘༺ 🇮🇳](https://t.me/kinds_xD)
 <a href="https://youtube.com/channel/UCg2TdQRiebYp9iFPDJ8idUQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
