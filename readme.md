@@ -13,20 +13,11 @@
 A Powerful Telegram Chat Bot written in pyrogram. Useful for Feedbacks , Anonymous Identity, Supports Groups. Works Similarly like Livegram Bot
 
 # Hᴏsᴛɪɴɢ
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+DeadlySpamBot+𝚂𝚘𝚞𝚛𝚌𝚎;𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+DeadlySpamBot+𝚂𝚘𝚞𝚛𝚌𝚎%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Click+the+button+below+to+deploy+Kiara+Chat+Bot+on+Heroku;Click+the+button+below+to+deploy+Kiara+Chat+Bot+on+Heroku%E2%9D%A4%EF%B8%8F">
 </p>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Team-Deadly/BOTDEPLOY"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Team-Bot2/Kiara-ChatBot"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
 
-
-#### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/Team-Bot2/DEADLY-SPAMBOT) 
-
-
-
-## 🚀 Heroku Deployment
-
-<h4>Click the button below to deploy Kiara Chat Bot on Heroku!</h4>    
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Team-Bot2/Kiara-ChatBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 
 ## 🔗 Commands
